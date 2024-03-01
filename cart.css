@@ -5,6 +5,7 @@ wrapper {
 }
 
 .cart {
+  
     background-color: white;
     height: 350px;
     width: 350px;
@@ -14,7 +15,8 @@ wrapper {
     text-align: center;
     padding-bottom: 300px;
     padding-right: 50px;
-    margin-top: 30px;
+    margin-top: 80px;
+    margin-left: 650px;
 }
 
 .img {
@@ -49,13 +51,13 @@ wrapper {
 }
 
 .num {
-    color: grey;
+    color: blueviolet;
 }
 
 .Button {
     font-weight: bolder;
     width: 90px;
-    padding: 1px;
+    padding: 7px;
     border-radius: 15px;
     font-family: calabri;
     margin-right: -69px;
