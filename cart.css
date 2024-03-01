@@ -1,0 +1,90 @@
+wrapper {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.cart {
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    border: solid 2px black;
+    border-radius: 10px;
+    margin-left: 200px;
+    text-align: center;
+    padding-bottom: 300px;
+    padding-right: 50px;
+    margin-top: 30px;
+}
+
+.img {
+    margin-left: 30px;
+    margin-top: 1px;
+    height: 400px;
+    width: 350px;
+}
+
+
+.discptInfo {
+    margin-top: -45px;
+    font-family: calabri;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ShirtName {
+    margin-top: -50px;
+    font-family: calabri;
+    font-weight: bolder;
+}
+
+.priceBox {
+    width: 20px;
+    color: green;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 200px;
+
+}
+
+.num {
+    color: grey;
+}
+
+.Button {
+    font-weight: bolder;
+    width: 90px;
+    padding: 1px;
+    border-radius: 15px;
+    font-family: calabri;
+    margin-right: -69px;
+    cursor: pointer;
+}
+
+.Button:hover {
+    color: white;
+
+    background-color: rgb(13, 181, 13);
+    box-shadow: green;
+}
+
+.cart2 {
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    border: solid 2px black;
+    border-radius: 10px;
+    margin-left: 630px;
+    margin-bottom: 200px;
+    text-align: center;
+    padding-bottom: 300px;
+    padding-right: 50px;
+    margin-top: 30px;
+}
+
+.cartFooter {
+    margin-top: 50px;
+    /* padding-right: 200px; */
+
+}
