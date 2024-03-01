@@ -70,6 +70,10 @@ wrapper {
     background-color: rgb(13, 181, 13);
     box-shadow: green;
 }
+.info{
+   margin-left: 30px;
+    
+}
 
 .cart2 {
     background-color: white;
